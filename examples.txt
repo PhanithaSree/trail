@@ -2,3 +2,7 @@ WELCOME!
 
 c
 python
+JAVA
+GROOVY
+RUBY
+PEARL
